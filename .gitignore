@@ -1,5 +1,6 @@
 *cache*
 /home/www/test.regalonatural.com/prestashop/app/config/parameters.php
+app/config/parameters.php
 *.xlf
 # -- Symfony2 -----------------------------------------
 app/bootstrap.php.cache
